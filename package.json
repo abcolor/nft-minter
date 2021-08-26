@@ -1,0 +1,25 @@
+{
+  "name": "favorites",
+  "version": "1.0.0",
+  "description": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "*",
+    "body-parser": "^1.14.2",
+    "dotenv": "*",
+    "ethereumjs-wallet": "*",
+    "express": "^4.13.4",
+    "express-fileupload": "*",
+    "express-form-data": "*",
+    "formidable": "^1.2.2",
+    "ipfs-api": "*",
+    "request": "^2.65.0",
+    "truffle-hdwallet-provider-privkey": "*",
+    "uuid": "*",
+    "web3": "*",
+    "request-promise": "*"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}
